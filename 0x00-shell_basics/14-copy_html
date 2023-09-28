@@ -1,2 +1,2 @@
 #!/bin/bash
-a new line
+dirname "$src_dir"
