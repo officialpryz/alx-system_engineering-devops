@@ -1,2 +1,2 @@
 #!/bin/bash
-dirname "$src_dir"
+cp -u *.html ..
