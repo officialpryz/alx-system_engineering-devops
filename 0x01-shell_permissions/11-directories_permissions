@@ -1,2 +1,2 @@
 #!/bin/bash
-new 
+find . -subdir d -exec chmod +x 
