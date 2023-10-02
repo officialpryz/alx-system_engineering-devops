@@ -1,2 +1,2 @@
 #!/bin/bash
-new file
+cat /etc/passwd /etc/hosts
